@@ -22,7 +22,7 @@ public class UsingBufferedReader {
         inputStream.close();
 
 
-        //-------------- Test reading 10 MB file. -------------------
+        //-------------- Test reading 10 MB file. --------------------
 
         StopWatch.start();
 
